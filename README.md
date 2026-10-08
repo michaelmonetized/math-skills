@@ -63,7 +63,7 @@ The names are puns. The skills are not jokes.
 
 `mathematics/` and `productivity/` ship in the plugin. `misc/` and `in-progress/` are installable one at a time. User-invoked skills (the orchestrators) run only when you type them, e.g. `/grill-with-white-papers`; model-invoked skills can also be picked up by the agent when the task fits.
 
-## Installation (30-second setup, once this repo is published)
+## Installation (30-second setup)
 
 > This repository has not been pushed anywhere yet. The commands below assume it lives at `github.com/michaelmonetized/math-skills`; until then, use the local option at the end.
 
