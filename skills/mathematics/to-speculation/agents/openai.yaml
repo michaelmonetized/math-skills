@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Speculation"
+  short_description: "Synthesise the conversation into a research spec"
+policy:
+  allow_implicit_invocation: false

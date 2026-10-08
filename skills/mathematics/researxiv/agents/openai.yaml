@@ -1,0 +1,3 @@
+interface:
+  display_name: "ResearXiv"
+  short_description: "Is it known? Cited, verified, no hallucinated references"

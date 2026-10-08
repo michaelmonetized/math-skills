@@ -1,0 +1,5 @@
+interface:
+  display_name: "Teich Me"
+  short_description: "Learn a new area, one deformation at a time"
+policy:
+  allow_implicit_invocation: false

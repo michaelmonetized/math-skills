@@ -1,0 +1,3 @@
+interface:
+  display_name: "Writing for a Gentzen"
+  short_description: "Write agent docs as tidy as a sequent calculus"

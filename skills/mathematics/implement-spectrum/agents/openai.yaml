@@ -1,0 +1,5 @@
+interface:
+  display_name: "Implement Spectrum"
+  short_description: "Prove the whole lemma graph in parallel"
+policy:
+  allow_implicit_invocation: false

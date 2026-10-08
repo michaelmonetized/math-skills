@@ -1,0 +1,5 @@
+interface:
+  display_name: "Triangulate"
+  short_description: "Sort referee points and error reports into verified, actionable items"
+policy:
+  allow_implicit_invocation: false

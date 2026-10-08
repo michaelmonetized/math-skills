@@ -1,0 +1,5 @@
+interface:
+  display_name: "Improve Base-Change Architecture"
+  short_description: "Survey a paper or Lean project for deeper lemmas"
+policy:
+  allow_implicit_invocation: false

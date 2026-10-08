@@ -1,0 +1,22 @@
+{
+  "name": "mathpocock",
+  "owner": {
+    "name": "Michael C. Hurley",
+    "email": "michaelmonetized@gmail.com"
+  },
+  "description": "Math Pocock's skills for real mathematics, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "math-pocock-skills",
+      "source": "./",
+      "description": "Agent skills for real mathematicians (grilling, literature, check-first proving, proof review, Lean 4 and more).",
+      "category": "mathematics",
+      "keywords": [
+        "mathematics",
+        "proofs",
+        "lean4",
+        "literature"
+      ]
+    }
+  ]
+}

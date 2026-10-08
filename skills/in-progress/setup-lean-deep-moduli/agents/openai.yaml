@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Lean Deep Moduli"
+  short_description: "Lean + Mathlib project with enforced module boundaries"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Wizard of ODEs"
+  short_description: "Walk a human through the steps only they can take"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Hand-Wave Off"
+  short_description: "Hand off the session with every claim honestly labelled"
+policy:
+  allow_implicit_invocation: false

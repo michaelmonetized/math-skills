@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill Lemma"
+  short_description: "Out of the dilemma, into the lemma"
+policy:
+  allow_implicit_invocation: false

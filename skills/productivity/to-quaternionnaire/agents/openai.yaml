@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Quaternionnaire"
+  short_description: "Four-dimensional questions for the one person who knows"
+policy:
+  allow_implicit_invocation: false

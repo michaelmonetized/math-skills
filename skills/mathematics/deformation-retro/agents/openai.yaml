@@ -1,0 +1,5 @@
+interface:
+  display_name: "Deformation Retro"
+  short_description: "Retrospective: shrink the session to what should change"
+policy:
+  allow_implicit_invocation: false

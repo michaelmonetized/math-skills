@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Math Pocock's Skills"
+  short_description: "Configure tracker, notation, tools, and manuscript"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Shape Theory"
+  short_description: "Shape raw material into exposition, block by block"
+policy:
+  allow_implicit_invocation: false

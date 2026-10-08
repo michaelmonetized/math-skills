@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wait How Much"
+  short_description: "Re-pitch that, with sizes, constants, and one real number"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Diagonalizing Bugs"
+  short_description: "Find where the math went wrong, one eigen-suspect at a time"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "To TikZets"
+  short_description: "Lemma tickets with dependency edges, graph included"
+policy:
+  allow_implicit_invocation: false

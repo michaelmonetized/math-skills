@@ -1,0 +1,3 @@
+interface:
+  display_name: "Setup Pre-Commutative"
+  short_description: "Commit and check commute: compile, refs, Lean, numerics"

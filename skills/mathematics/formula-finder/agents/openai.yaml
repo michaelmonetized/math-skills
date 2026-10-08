@@ -1,0 +1,5 @@
+interface:
+  display_name: "Formula Finder"
+  short_description: "Chart a big research effort, one decision at a time"
+policy:
+  allow_implicit_invocation: false

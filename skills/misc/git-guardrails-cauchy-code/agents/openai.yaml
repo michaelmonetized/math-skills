@@ -1,0 +1,3 @@
+interface:
+  display_name: "Git Guardrails (Cauchy Code)"
+  short_description: "Block history-rewriting git commands in a paper repo"

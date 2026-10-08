@@ -1,0 +1,5 @@
+interface:
+  display_name: "Imply-ment"
+  short_description: "Prove the planned lemmas, check-first, then review"
+policy:
+  allow_implicit_invocation: false

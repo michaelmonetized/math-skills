@@ -1,0 +1,5 @@
+interface:
+  display_name: "Chief of Stalks"
+  short_description: "Run a long research goal through sub-agents, locally and globally"
+policy:
+  allow_implicit_invocation: false

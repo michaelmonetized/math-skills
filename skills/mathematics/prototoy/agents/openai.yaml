@@ -1,0 +1,3 @@
+interface:
+  display_name: "Prototoy"
+  short_description: "A throwaway toy computation that answers one question"

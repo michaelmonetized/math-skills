@@ -1,0 +1,5 @@
+interface:
+  display_name: "Claude Hand-Wave Off"
+  short_description: "Hand off to a background agent, no hand-waving"
+policy:
+  allow_implicit_invocation: false
